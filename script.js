@@ -1,17 +1,10 @@
 <<<<<<< main
 // Javascript code
-console.log("Test")
-console.log("Hello World")
+console.log("Hallo")
 
-function main() {
-return null;
+function main(i) {
+return i;
 }
-main();
+main(3);
 
-// console.log(main);
-=======
-console.log("Test")
-console.log("Hello World")
->>>>>>> main
 
-//Test
